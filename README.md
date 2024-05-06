@@ -28,3 +28,5 @@ The recent deregulation of the energy market has increased competition, leading 
 **OutComes:**
 * **Expanded Column**: expanded date column with respect to year, last three month , last six months.
 * **Removed Column:** column with variable price doesn't affect the churn rate
+* **Classification:** using random forest to Identify if the client will churn or not.
+![Prediction Metrics](./classificationReport.png)
